@@ -1,0 +1,17 @@
+{
+  "name": "googlesearch",
+  "version": "1.0.0",
+  "description": "google search automation",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^7.7.0",
+    "cypress-file-upload": "^5.0.8"
+  },
+  "scripts": {
+    "test": "cypress open",
+    "run": "cypress run"
+  },
+  "author": "Rachana",
+  "license": "ISC"
+}
